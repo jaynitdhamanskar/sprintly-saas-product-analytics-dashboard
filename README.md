@@ -59,9 +59,7 @@ The project follows the **Medallion Architecture** consisting of Bronze, Silver,
 
 ## Architecture Diagram
 
-```markdown
 ![Architecture](https://github.com/jaynitdhamanskar/sprintly-saas-product-analytics-dashboard/blob/main/screenshots/Sprintly%20Analytics%20Architecture.drawio.png)
-```
 
 ---
 
@@ -143,7 +141,6 @@ The solution consists of **5 analytical dashboard pages**.
 
 # Dashboard Navigation
 
-```markdown
 ### Collapsed Navigation
 
 ![Collapsed Navigation](https://github.com/jaynitdhamanskar/sprintly-saas-product-analytics-dashboard/blob/main/screenshots/Collapsed%20Menu.png)
@@ -151,15 +148,12 @@ The solution consists of **5 analytical dashboard pages**.
 ### Expanded Navigation
 
 ![Expanded Navigation](https://github.com/jaynitdhamanskar/sprintly-saas-product-analytics-dashboard/blob/main/screenshots/Expanded%20Menu.png)
-```
 
 ---
 
 # Filter Panel
 
-```markdown
 ![Filter Panel](https://github.com/jaynitdhamanskar/sprintly-saas-product-analytics-dashboard/blob/main/screenshots/Filter%20Pane.png)
-```
 
 The dashboard supports interactive filtering across all report pages using:
 
@@ -194,9 +188,7 @@ Provides an executive summary of Sprintly's customer base.
 * Accounts by Acquisition Channel
 * Accounts by Company Size
 
-```markdown
 ![Business Overview](https://github.com/jaynitdhamanskar/sprintly-saas-product-analytics-dashboard/blob/main/screenshots/Business%20Overview.png)
-```
 
 ---
 
@@ -220,9 +212,7 @@ Analyzes customer interaction with the Sprintly platform.
 * Task Activity by Subscription Plan
 * Customer Engagement vs Project Activity
 
-```markdown
 ![Product Usage](https://github.com/jaynitdhamanskar/sprintly-saas-product-analytics-dashboard/blob/main/screenshots/Product%20Usage%20and%20Adoption.png)
-```
 
 ---
 
@@ -246,9 +236,7 @@ Monitors customer engagement and identifies accounts requiring attention.
 * Accounts Requiring Attention
 * Customer Health Summary
 
-```markdown
 ![Customer Health](https://github.com/jaynitdhamanskar/sprintly-saas-product-analytics-dashboard/blob/main/screenshots/Customer%20Health%20and%20Retention.png)
-```
 
 ---
 
@@ -272,9 +260,7 @@ Highlights opportunities to improve Free-to-Starter conversions.
 * Average Days to Convert
 * High-Potential Free Accounts
 
-```markdown
 ![Revenue Dashboard](https://github.com/jaynitdhamanskar/sprintly-saas-product-analytics-dashboard/blob/main/screenshots/Revenue%20Conversions%20and%20Opportunities.png)
-```
 
 ---
 
@@ -290,9 +276,7 @@ Transforms analytical findings into strategic business recommendations.
 * Key Insights
 * Recommended Actions
 
-```markdown
 ![Executive Insights](https://github.com/jaynitdhamanskar/sprintly-saas-product-analytics-dashboard/blob/main/screenshots/Executive%20Insights%20and%20Recommendations.png)
-```
 
 ---
 
